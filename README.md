@@ -11,7 +11,7 @@ orders.csv – Contains the order ID, date, and time.
 * A data dictionary is also provided for reference.
 
 
-##-🔧 Tools Used
+## 🔧 Tools Used
 
 * Python 🐍
 * Pandas 📊
@@ -20,14 +20,14 @@ orders.csv – Contains the order ID, date, and time.
 * Jupyter Notebook 📒
 
 
-##-🧼 Data Cleaning Steps
+## 🧼 Data Cleaning Steps
 * Merged all four datasets into a single DataFrame.
 * Converted date and time columns to datetime format.
 * Handled missing values and removed duplicates.
 * Created a new column for total_price = quantity × price.
 
 
-##- 📊 Key Insights
+## 📊 Key Insights
 * 💵 Total Revenue: $817,860.05
 * 🔢 Total Pizzas Sold: 49574 unit
 * 📦 Total Orders: 21350 Orders
